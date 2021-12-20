@@ -1,0 +1,1 @@
+this is the log of all the commits and changes i made using react and all the notes are also stored inside the react 
