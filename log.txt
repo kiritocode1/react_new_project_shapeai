@@ -64,6 +64,26 @@ export default User;
 
 
 
+============================================================================
+props or properties code in the log ->
+
+
+// import logo from './logo.svg';
+// import './App.css';
+import User from "./components/users";
+
+function App() {
+  return (
+    <div>
+      <h1>hello i'm kirito code1</h1>
+    <User  name = "aryan" description="this is the description"/>
+    <User name = "noice namo" description = "no no nooooooooo"/>
+    </div>
+  );
+}
+export default App;
+
+
 
 
 
