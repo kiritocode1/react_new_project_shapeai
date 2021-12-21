@@ -5,6 +5,77 @@ this is the log of all the commits and changes i made using react and all the no
 4- jsxml code is used in this 
 _____________________________________________________________________________
 index.js is the guardian file . basically 
+if we inspect the html ,
+even tho we see the tags and all the same way ,
+so we essentially wrote once and used as much as we want . 
+
+log-2 : created a new file called components --> users.js and pasted the app.js inside it . 
+made these changes --->
+
+app.js
+// import logo from './logo.svg';
+// import './App.css';
+import User from "./components/users";
+
+function App() {
+  return (
+    <div>
+      <h1>hello i'm kirito code1</h1>
+    <User />
+    </div>
+    
+    // <div className="App">
+    //   <header className="App-header">
+    //     <img src={logo} className="App-logo" alt="logo" />
+    //     <p>
+    //       Edit <code>src/App.js</code> and save to reload.
+    //     </p>
+    //     <a
+    //       className="App-link"
+    //       href="https://reactjs.org"
+    //       target="_blank"
+    //       rel="noopener noreferrer"
+    //     >
+    //       Learn React
+    //     </a>
+    //   </header>
+    // </div>
+  );
+}
+export default App;
+----------------------------------------------------------------------------------------------------------------------------------
+users.js->
+// import logo from './logo.svg';
+// import './App.css';
+
+
+function User(){
+    return (
+    <div>
+    <h1>aryan kathawale</h1>
+    <h4>thie is FSWD </h4>
+    </div>
+    
+);}
+
+export default User;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_____________________________________________________________________________
+
 1.functional components 
 
 

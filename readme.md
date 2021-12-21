@@ -25,5 +25,10 @@ serch: new react app
 ---
 index.js is the ```guardian``` file inside react ans used to add or render html .
 
+React.strictmode is strictly for react jsxml 
+to create a new user component ---> 
+made a new file inside a new components folder , and started doing the basics. 
+>made ```users.js```("./test-app/src/components/users.js") and imported it inside the ```App.js```("./test-app/src/App.js") which is imported into ```index.js```("./test-app/src/index.js") which is used in the main html page . easy as hell come on . 
 
-
+---
+after this props come into action . 
