@@ -1,3 +1,5 @@
 this is the log of all the commits and changes i made using react and all the notes are also stored inside the react 
 1 - created readme 
 2 - created this page 
+3- allows for reconciliation 
+4- jsxml code is used in this 
