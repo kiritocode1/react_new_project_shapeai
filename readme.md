@@ -14,3 +14,16 @@ because its cool
 
 
 3.```Reconciliation``` chacks and updates via checking the virtual dom.
+
+---
+# how to begin ???
+serch: new react app
+
+
+1. >cd over to ```test-app``` 
+2. > npm start
+---
+index.js is the ```guardian``` file inside react ans used to add or render html .
+
+
+
