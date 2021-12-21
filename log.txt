@@ -78,7 +78,17 @@ _____________________________________________________________________________
 
 1.functional components 
 
+function name(props){
+    return(
+        <div>
+        everything should be inside this div 
+        
+        </div>
 
+    )
+
+
+}
 
 
 

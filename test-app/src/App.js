@@ -6,7 +6,8 @@ function App() {
   return (
     <div>
       <h1>hello i'm kirito code1</h1>
-    <User />
+    <User  name = "aryan" description="this is the description"/>
+    <User name = "noice namo" description = "no no nooooooooo"/>
     </div>
     
     // <div className="App">
@@ -27,5 +28,4 @@ function App() {
     // </div>
   );
 }
-
 export default App;
