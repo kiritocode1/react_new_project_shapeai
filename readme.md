@@ -41,4 +41,30 @@ and make no changes to index.js.
 so we can have dynamicity of dom manipulation 😍😍😍
 
 
+# life cycle stage --> 
+this is the timeline or how the program / components will get rendered
+MOUNT 
+---
+Mount means at the time of creation.
 
+>CONSTRUCTOR()
+>RENDER()
+>componentDidMount()
+---
+UPDATE 
+---
+
+
+
+
+---
+UNMOUNT
+---
+
+
+
+
+
+---
+>hooks ---> introduced to make use of state in ur functional component 
+>>two important hooks are --> ```usestate``` and ```useEffect```  eg--> check in log - 4 

@@ -7,8 +7,8 @@ function App() {
     <div>
       <h1>hello i'm kirito code1</h1>
     <User  name = "aryan" description="this is the description"/>
-      <User name="noice namo" description="no no nooooooooo" />
-      <User name = "aayush" description = "this is the test of new app on 21/02/22"/>
+      {/* <User name="noice namo" description="no no nooooooooo" />
+      <User name = "aayush" description = "this is the test of new app on 21/02/22"/> */}
     </div>
     
     // <div className="App">
